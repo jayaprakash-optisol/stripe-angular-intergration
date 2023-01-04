@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.checkout {
+  position: absolute;
+  margin-top: 10%;
+}
